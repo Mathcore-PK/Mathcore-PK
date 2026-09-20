@@ -1,22 +1,28 @@
-# MathCore-PK 📐
+# MathCore-PK 📐 | PhD Mathematics - Geometric Function Theory
 
-Linear Algebra + Topology + Numerical Analysis + Differential Geometry Notes for Undergraduate Students | MATLAB + Python
+### Assalam-o-Alaikum! I am a PhD Mathematics Scholar from Abbottabad, Pakistan.
 
-### Hi there 👋 I am a Maths teacher from Peshawar, Pakistan.
+**Research Area:** Geometric Function Theory (Univalent Functions, Coefficient Estimates, Starlike & Convex Functions)
 
-This repository contains my lecture notes and codes for:
+This repository is for BS / MSc / MPhil students and researchers.
 
-- **01-Linear-Algebra** - Matrices, Vector Spaces
-- **02-Numerical-Analysis** - Bisection, Newton-Raphson
-- **03-Topology** - Neighbourhood Systems, Closure Operators
-- **04-Differential-Geometry**
+#### 📚 Contents
+- **01-Linear-Algebra** - Matrices, Eigenvalues
+- **02-Numerical-Analysis** - Bisection, Newton-Raphson, Gauss Methods
+- **03-Topology** - Neighbourhood Systems N1-N4, Closure Operator K(A) - My Research Topic
+- **04-Geometric-Function-Theory** - Complex Analysis, Univalent Functions Notes
+- **05-MATLAB-Codes**
 
-### Tools Used
-- Overleaf (LaTeX)
-- Python (Numpy, Sympy)
-- MATLAB
+#### 🛠️ Tools
+- LaTeX (Overleaf) | Python | MATLAB
 
-### For Students
-All PDFs and codes are free to use for BS Mathematics students.
+#### 🎯 For Students from Abbottabad & All Pakistan
+Free notes and codes for university students.
 
-⭐ Star this repo if it helps you!
+---
+### 🌐 Connect With Me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1RzHbr9grC/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mathofqau9563?si=sygedKQwUR2qwGKa)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@umerkj194)
+
+📍 Abbottabad, Pakistan | ⭐ Please Star the Repository
